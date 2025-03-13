@@ -32,7 +32,7 @@ Make sure you have the following installed:
 ## Steps to Run
 ## 1. Clone the repository:
 ```sh
-git clone https://github.com/your-repository/registration-form.git
+git clone https://github.com/Punith-b2004/registration-form-projec.git
 cd registration-form
 ```
 
