@@ -1,4 +1,4 @@
-## Registration Form with Node.js and MongoDB
+`## Registration Form with Node.js and MongoDB
 
 ## Description
 This project is a simple **Registration Form** built with HTML, CSS, and Bootstrap for the frontend, and Node.js with Express and MongoDB for the backend. Users can fill out the form to sign up, and their data is stored in a MongoDB database.
@@ -76,6 +76,9 @@ To see the app in action, watch the demo video below:
 ## Add **password hashing** for better security.
 ## Implement **email verification** for user authentication.
 ## Improve **UI design** with additional styling.
+
+Contact
+📧 Email: puneethgowda91081@gmail.com 🔗 LinkedIn: (https://www.linkedin.com/in/punith-b-aa264b282/)
 
 
 
