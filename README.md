@@ -67,6 +67,7 @@ http://localhost:3000/
 ## Demo Video
 
 To see the app in action, watch the demo video below:
+
 [Watch the Demo Video](https://github.com/Punith-b2004/registration-form-project/raw/main/public/registration.mp4)
 
 [Youtube Link:](https://youtu.be/k_ZfY7b8NeQ?si=D-jS39c8JhEQ3Zca)
